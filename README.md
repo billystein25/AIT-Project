@@ -1,5 +1,5 @@
-# ADST-Project
-This project was made for the undergraduate selective course Algorithmic Data Science Techniques (CEID1524). The goal of this project was to implement a shortest augmenting path algorithm on a Boost graph. The project runs my implementation of the shortest augmenting path algorithm on a Boost graph and compares its execution time to the execution time of the MAX_FLOW_T function from the Leda library on the same graph. The graph is generated using Leda and then translated to a Boost graph.
+# AIT-Project
+This project was made for the undergraduate selective course Algorithmic Implementation Techniques (CEID1524). The goal of this project was to implement a shortest augmenting path algorithm on a Boost graph. The project runs my implementation of the shortest augmenting path algorithm on a Boost graph and compares its execution time to the execution time of the MAX_FLOW_T function from the Leda library on the same graph. The graph is generated using Leda and then translated to a Boost graph.
 
 # Setup
 This project was made on a Red Hat Linux Distribution and was compiled using GCC 4.4.7
